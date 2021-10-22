@@ -5,5 +5,5 @@ Task 1:
 git fetch brings code from GitHub to my local repository without changing my local repository.
 Task 2:
 // Under this line, describe the difference between Git and GitHub
-idk
+Git is a version control software and GitHub is a hosting service.
 
