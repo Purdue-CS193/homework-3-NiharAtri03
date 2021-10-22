@@ -5,7 +5,7 @@ Q2: What does 'git clone' do?
 Git clone copies the repository in GitHub to my computer.
 
 Q3: What does 'git status' do?
-Git status shows what is happening in my repository.
+Git status shows what is happening in my local repository.
 
 Q4: What does "Your branch is up to date with 'origin/master'" tell you?
 This means that the files in my local repository are the same as the files in the GitHub repository.
